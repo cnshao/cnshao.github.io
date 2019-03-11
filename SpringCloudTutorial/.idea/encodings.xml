@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JVMTest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-aop-weblog" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-async" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-config-client-authc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-config-client-encrypt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-config-client-encrypt-rsa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-config-client-refresh" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-config-client-refresh-bus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-config-server-authc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-config-server-encrypt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-config-server-encrypt-rsa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-consumer-movie" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-consumer-movie-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-consumer-movie-feign-custom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-consumer-movie-feign-custom-without-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-consumer-movie-feign-with-hystrix-factory" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-consumer-movie-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-consumer-movie-ribbon-custom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-consumer-movie-ribbon-properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-consumer-movie-ribbon-properties-without-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-consumer-movie-ribbon-with-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-consumer-movie-ribbon-with-hystrix-propagation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-discovery-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-discovery-eureka-ha" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-draft-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-file-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-gateway-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-gateway-zuul-attribute" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-gateway-zuul-cluster" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-gateway-zuul-fallback" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-gateway-zuul-file-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-gateway-zuul-filter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-gateway-zuul-reg-exp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-provider-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-provider-user-mysql-crudrepository" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-provider-user-mysql-jdbctemplate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-provider-user-mysql-jdbctemplate-transactional" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-provider-user-mysql-jparepository" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-provider-user-mysql-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-provider-user-mysql-mybatis-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-provider-user-mysql-mybatis-mapper-ehcache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-provider-user-version" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-schedule" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-sidecar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-simple-consumer-movie" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-simple-provider-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-simple-provider-user-devtools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-simple-quartz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-simple-quartz-cluster" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springms-simple-quartz-config-cluster" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

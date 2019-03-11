@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.springms.cloud</groupId>
+    <artifactId>springms-spring-cloud</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+	<modules>
+		<module>springms-simple-provider-user</module>
+		<module>springms-simple-consumer-movie</module>
+		<module>springms-discovery-eureka</module>
+		<module>springms-provider-user</module>
+		<module>springms-consumer-movie</module>
+		<module>springms-consumer-movie-ribbon</module>
+		<module>springms-consumer-movie-ribbon-custom</module>
+		<module>springms-consumer-movie-ribbon-properties</module>
+		<module>springms-simple-quartz</module>
+		<module>springms-simple-quartz-cluster</module>
+		<module>springms-consumer-movie-ribbon-properties-without-eureka</module>
+		<module>springms-consumer-movie-feign</module>
+		<module>springms-consumer-movie-feign-custom</module>
+		<module>springms-consumer-movie-ribbon-with-hystrix</module>
+		<module>springms-consumer-movie-ribbon-with-hystrix-propagation</module>
+		<module>springms-consumer-movie-feign-custom-without-hystrix</module>
+		<module>springms-consumer-movie-feign-with-hystrix-factory</module>
+		<module>springms-gateway-zuul</module>
+		<module>springms-gateway-zuul-attribute</module>
+		<module>springms-provider-user-version</module>
+		<module>springms-gateway-zuul-cluster</module>
+		<module>springms-gateway-zuul-filter</module>
+		<module>springms-gateway-zuul-reg-exp</module>
+		<module>springms-file-upload</module>
+		<module>springms-gateway-zuul-file-upload</module>
+		<module>springms-gateway-zuul-fallback</module>
+		<module>springms-sidecar</module>
+		<module>springms-config-server</module>
+		<module>springms-config-client</module>
+		<module>springms-config-server-encrypt</module>
+		<module>springms-config-client-encrypt</module>
+		<module>springms-config-server-encrypt-rsa</module>
+		<module>springms-config-client-encrypt-rsa</module>
+        <module>springms-config-server-authc</module>
+        <module>springms-config-client-authc</module>
+        <module>springms-config-client-refresh</module>
+        <module>springms-config-client-refresh-bus</module>
+        <module>springms-simple-provider-user-devtools</module>
+        <module>springms-provider-user-mysql-jparepository</module>
+        <module>springms-provider-user-mysql-crudrepository</module>
+        <module>springms-provider-user-mysql-jdbctemplate</module>
+        <module>springms-provider-user-mysql-jdbctemplate-transactional</module>
+        <module>springms-provider-user-mysql-mybatis</module>
+        <module>springms-provider-user-mysql-mybatis-mapper</module>
+        <module>springms-provider-user-mysql-mybatis-mapper-ehcache</module>
+        <module>springms-schedule</module>
+        <module>springms-async</module>
+        <module>springms-aop-weblog</module>
+        <module>springms-draft-demo</module>
+        <module>springms-discovery-eureka-ha</module>
+        <module>springms-simple-quartz-config-cluster</module>
+        <module>JVMTest</module>
+    </modules>
+
+    <!-- 该套代码测试版本，首选 1.4.1.RELEASE 版本 -->
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>1.4.1.RELEASE</version>
+    </parent>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <java.version>1.8</java.version>
+    </properties>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-dependencies</artifactId>
+                <version>Camden.SR7</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+			
+			<dependency>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-starter-test</artifactId>
+				<scope>test</scope>
+			</dependency>
+
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot</artifactId>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>

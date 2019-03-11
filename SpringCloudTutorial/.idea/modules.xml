@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JVMTest/JVMTest.iml" filepath="$PROJECT_DIR$/JVMTest/JVMTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudTutorial.iml" filepath="$PROJECT_DIR$/SpringCloudTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudjvmTest.iml" filepath="$PROJECT_DIR$/cloudjvmTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-aop-weblog/springms-aop-weblog.iml" filepath="$PROJECT_DIR$/springms-aop-weblog/springms-aop-weblog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-async/springms-async.iml" filepath="$PROJECT_DIR$/springms-async/springms-async.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-config-client/springms-config-client.iml" filepath="$PROJECT_DIR$/springms-config-client/springms-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-config-client-authc/springms-config-client-authc.iml" filepath="$PROJECT_DIR$/springms-config-client-authc/springms-config-client-authc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-config-client-encrypt/springms-config-client-encrypt.iml" filepath="$PROJECT_DIR$/springms-config-client-encrypt/springms-config-client-encrypt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-config-client-encrypt-rsa/springms-config-client-encrypt-rsa.iml" filepath="$PROJECT_DIR$/springms-config-client-encrypt-rsa/springms-config-client-encrypt-rsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-config-client-refresh/springms-config-client-refresh.iml" filepath="$PROJECT_DIR$/springms-config-client-refresh/springms-config-client-refresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-config-client-refresh-bus/springms-config-client-refresh-bus.iml" filepath="$PROJECT_DIR$/springms-config-client-refresh-bus/springms-config-client-refresh-bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-config-server/springms-config-server.iml" filepath="$PROJECT_DIR$/springms-config-server/springms-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-config-server-authc/springms-config-server-authc.iml" filepath="$PROJECT_DIR$/springms-config-server-authc/springms-config-server-authc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-config-server-encrypt/springms-config-server-encrypt.iml" filepath="$PROJECT_DIR$/springms-config-server-encrypt/springms-config-server-encrypt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-config-server-encrypt-rsa/springms-config-server-encrypt-rsa.iml" filepath="$PROJECT_DIR$/springms-config-server-encrypt-rsa/springms-config-server-encrypt-rsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-consumer-movie/springms-consumer-movie.iml" filepath="$PROJECT_DIR$/springms-consumer-movie/springms-consumer-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-consumer-movie-feign/springms-consumer-movie-feign.iml" filepath="$PROJECT_DIR$/springms-consumer-movie-feign/springms-consumer-movie-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-consumer-movie-feign-custom/springms-consumer-movie-feign-custom.iml" filepath="$PROJECT_DIR$/springms-consumer-movie-feign-custom/springms-consumer-movie-feign-custom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-consumer-movie-feign-custom-without-hystrix/springms-consumer-movie-feign-custom-without-hystrix.iml" filepath="$PROJECT_DIR$/springms-consumer-movie-feign-custom-without-hystrix/springms-consumer-movie-feign-custom-without-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-consumer-movie-feign-with-hystrix-factory/springms-consumer-movie-feign-with-hystrix-factory.iml" filepath="$PROJECT_DIR$/springms-consumer-movie-feign-with-hystrix-factory/springms-consumer-movie-feign-with-hystrix-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-consumer-movie-ribbon/springms-consumer-movie-ribbon.iml" filepath="$PROJECT_DIR$/springms-consumer-movie-ribbon/springms-consumer-movie-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-consumer-movie-ribbon-custom/springms-consumer-movie-ribbon-custom.iml" filepath="$PROJECT_DIR$/springms-consumer-movie-ribbon-custom/springms-consumer-movie-ribbon-custom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-consumer-movie-ribbon-properties/springms-consumer-movie-ribbon-properties.iml" filepath="$PROJECT_DIR$/springms-consumer-movie-ribbon-properties/springms-consumer-movie-ribbon-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-consumer-movie-ribbon-properties-without-eureka/springms-consumer-movie-ribbon-properties-without-eureka.iml" filepath="$PROJECT_DIR$/springms-consumer-movie-ribbon-properties-without-eureka/springms-consumer-movie-ribbon-properties-without-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-consumer-movie-ribbon-with-hystrix/springms-consumer-movie-ribbon-with-hystrix.iml" filepath="$PROJECT_DIR$/springms-consumer-movie-ribbon-with-hystrix/springms-consumer-movie-ribbon-with-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-consumer-movie-ribbon-with-hystrix-propagation/springms-consumer-movie-ribbon-with-hystrix-propagation.iml" filepath="$PROJECT_DIR$/springms-consumer-movie-ribbon-with-hystrix-propagation/springms-consumer-movie-ribbon-with-hystrix-propagation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-discovery-eureka/springms-discovery-eureka.iml" filepath="$PROJECT_DIR$/springms-discovery-eureka/springms-discovery-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-discovery-eureka-ha/springms-discovery-eureka-ha.iml" filepath="$PROJECT_DIR$/springms-discovery-eureka-ha/springms-discovery-eureka-ha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-draft-demo/springms-draft-demo.iml" filepath="$PROJECT_DIR$/springms-draft-demo/springms-draft-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-file-upload/springms-file-upload.iml" filepath="$PROJECT_DIR$/springms-file-upload/springms-file-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-gateway-zuul/springms-gateway-zuul.iml" filepath="$PROJECT_DIR$/springms-gateway-zuul/springms-gateway-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-gateway-zuul-attribute/springms-gateway-zuul-attribute.iml" filepath="$PROJECT_DIR$/springms-gateway-zuul-attribute/springms-gateway-zuul-attribute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-gateway-zuul-cluster/springms-gateway-zuul-cluster.iml" filepath="$PROJECT_DIR$/springms-gateway-zuul-cluster/springms-gateway-zuul-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-gateway-zuul-fallback/springms-gateway-zuul-fallback.iml" filepath="$PROJECT_DIR$/springms-gateway-zuul-fallback/springms-gateway-zuul-fallback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-gateway-zuul-file-upload/springms-gateway-zuul-file-upload.iml" filepath="$PROJECT_DIR$/springms-gateway-zuul-file-upload/springms-gateway-zuul-file-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-gateway-zuul-filter/springms-gateway-zuul-filter.iml" filepath="$PROJECT_DIR$/springms-gateway-zuul-filter/springms-gateway-zuul-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-gateway-zuul-reg-exp/springms-gateway-zuul-reg-exp.iml" filepath="$PROJECT_DIR$/springms-gateway-zuul-reg-exp/springms-gateway-zuul-reg-exp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-provider-user/springms-provider-user.iml" filepath="$PROJECT_DIR$/springms-provider-user/springms-provider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-provider-user-mysql-crudrepository/springms-provider-user-mysql-crudrepository.iml" filepath="$PROJECT_DIR$/springms-provider-user-mysql-crudrepository/springms-provider-user-mysql-crudrepository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-provider-user-mysql-jdbctemplate/springms-provider-user-mysql-jdbctemplate.iml" filepath="$PROJECT_DIR$/springms-provider-user-mysql-jdbctemplate/springms-provider-user-mysql-jdbctemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-provider-user-mysql-jdbctemplate-transactional/springms-provider-user-mysql-jdbctemplate-transactional.iml" filepath="$PROJECT_DIR$/springms-provider-user-mysql-jdbctemplate-transactional/springms-provider-user-mysql-jdbctemplate-transactional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-provider-user-mysql-jparepository/springms-provider-user-mysql-jparepository.iml" filepath="$PROJECT_DIR$/springms-provider-user-mysql-jparepository/springms-provider-user-mysql-jparepository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-provider-user-mysql-mybatis/springms-provider-user-mysql-mybatis.iml" filepath="$PROJECT_DIR$/springms-provider-user-mysql-mybatis/springms-provider-user-mysql-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-provider-user-mysql-mybatis-mapper/springms-provider-user-mysql-mybatis-mapper.iml" filepath="$PROJECT_DIR$/springms-provider-user-mysql-mybatis-mapper/springms-provider-user-mysql-mybatis-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-provider-user-mysql-mybatis-mapper-ehcache/springms-provider-user-mysql-mybatis-mapper-ehcache.iml" filepath="$PROJECT_DIR$/springms-provider-user-mysql-mybatis-mapper-ehcache/springms-provider-user-mysql-mybatis-mapper-ehcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-provider-user-version/springms-provider-user-version.iml" filepath="$PROJECT_DIR$/springms-provider-user-version/springms-provider-user-version.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-schedule/springms-schedule.iml" filepath="$PROJECT_DIR$/springms-schedule/springms-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-sidecar/springms-sidecar.iml" filepath="$PROJECT_DIR$/springms-sidecar/springms-sidecar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-simple-consumer-movie/springms-simple-consumer-movie.iml" filepath="$PROJECT_DIR$/springms-simple-consumer-movie/springms-simple-consumer-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-simple-provider-user/springms-simple-provider-user.iml" filepath="$PROJECT_DIR$/springms-simple-provider-user/springms-simple-provider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-simple-provider-user-devtools/springms-simple-provider-user-devtools.iml" filepath="$PROJECT_DIR$/springms-simple-provider-user-devtools/springms-simple-provider-user-devtools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-simple-quartz/springms-simple-quartz.iml" filepath="$PROJECT_DIR$/springms-simple-quartz/springms-simple-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-simple-quartz-cluster/springms-simple-quartz-cluster.iml" filepath="$PROJECT_DIR$/springms-simple-quartz-cluster/springms-simple-quartz-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springms-simple-quartz-config-cluster/springms-simple-quartz-config-cluster.iml" filepath="$PROJECT_DIR$/springms-simple-quartz-config-cluster/springms-simple-quartz-config-cluster.iml" />
+    </modules>
+  </component>
+</project>

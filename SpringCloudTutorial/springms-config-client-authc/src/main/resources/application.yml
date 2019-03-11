@@ -1,0 +1,27 @@
+server:
+  port: 8280
+spring:
+  application:
+    name: foobar  #取 foobar-dev.yml 这个文件的 application 名字，即为 foobar 名称
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://gitee.com/ylimhhmily/OpenSource_CustomCircleLineProgressBar
+      uri: http://admin:admin@localhost:8275 # 链接 springms-config-server-authc 微服务
+      profile: dev # 选择 dev 配置文件
+      label:  master #当 ConfigServer 的后端存储的是 Git 的时候，默认就是 master
+
+
+
+
+
+
+
+
+
+
+
+
+
+

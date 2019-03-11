@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
+        <module name="JVMTest" />
+        <module name="springms-aop-weblog" />
+        <module name="springms-async" />
+        <module name="springms-config-client" />
+        <module name="springms-config-client-authc" />
+        <module name="springms-config-client-encrypt" />
+        <module name="springms-config-client-encrypt-rsa" />
+        <module name="springms-config-client-refresh" />
+        <module name="springms-config-client-refresh-bus" />
+        <module name="springms-config-server" />
+        <module name="springms-config-server-authc" />
+        <module name="springms-config-server-encrypt" />
+        <module name="springms-config-server-encrypt-rsa" />
+        <module name="springms-consumer-movie" />
+        <module name="springms-consumer-movie-feign" />
+        <module name="springms-consumer-movie-feign-custom" />
+        <module name="springms-consumer-movie-feign-custom-without-hystrix" />
+        <module name="springms-consumer-movie-feign-with-hystrix-factory" />
+        <module name="springms-consumer-movie-ribbon" />
+        <module name="springms-consumer-movie-ribbon-custom" />
+        <module name="springms-consumer-movie-ribbon-properties" />
+        <module name="springms-consumer-movie-ribbon-properties-without-eureka" />
+        <module name="springms-consumer-movie-ribbon-with-hystrix" />
+        <module name="springms-consumer-movie-ribbon-with-hystrix-propagation" />
+        <module name="springms-discovery-eureka" />
+        <module name="springms-discovery-eureka-ha" />
+        <module name="springms-draft-demo" />
+        <module name="springms-file-upload" />
+        <module name="springms-gateway-zuul" />
+        <module name="springms-gateway-zuul-attribute" />
+        <module name="springms-gateway-zuul-cluster" />
+        <module name="springms-gateway-zuul-fallback" />
+        <module name="springms-gateway-zuul-file-upload" />
+        <module name="springms-gateway-zuul-filter" />
+        <module name="springms-gateway-zuul-reg-exp" />
+        <module name="springms-provider-user" />
+        <module name="springms-provider-user-mysql-crudrepository" />
+        <module name="springms-provider-user-mysql-jdbctemplate" />
+        <module name="springms-provider-user-mysql-jdbctemplate-transactional" />
+        <module name="springms-provider-user-mysql-jparepository" />
+        <module name="springms-provider-user-mysql-mybatis" />
+        <module name="springms-provider-user-mysql-mybatis-mapper" />
+        <module name="springms-provider-user-mysql-mybatis-mapper-ehcache" />
+        <module name="springms-provider-user-version" />
+        <module name="springms-schedule" />
+        <module name="springms-sidecar" />
+        <module name="springms-simple-consumer-movie" />
+        <module name="springms-simple-provider-user" />
+        <module name="springms-simple-provider-user-devtools" />
+        <module name="springms-simple-quartz" />
+        <module name="springms-simple-quartz-cluster" />
+        <module name="springms-simple-quartz-config-cluster" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloudjvmTest" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="JVMTest" target="1.8" />
+      <module name="SpringCloudTutorial" target="1.8" />
+      <module name="springms-aop-weblog" target="1.8" />
+      <module name="springms-async" target="1.8" />
+      <module name="springms-config-client" target="1.8" />
+      <module name="springms-config-client-authc" target="1.8" />
+      <module name="springms-config-client-encrypt" target="1.8" />
+      <module name="springms-config-client-encrypt-rsa" target="1.8" />
+      <module name="springms-config-client-refresh" target="1.8" />
+      <module name="springms-config-client-refresh-bus" target="1.8" />
+      <module name="springms-config-server" target="1.8" />
+      <module name="springms-config-server-authc" target="1.8" />
+      <module name="springms-config-server-encrypt" target="1.8" />
+      <module name="springms-config-server-encrypt-rsa" target="1.8" />
+      <module name="springms-consumer-movie" target="1.8" />
+      <module name="springms-consumer-movie-feign" target="1.8" />
+      <module name="springms-consumer-movie-feign-custom" target="1.8" />
+      <module name="springms-consumer-movie-feign-custom-without-hystrix" target="1.8" />
+      <module name="springms-consumer-movie-feign-with-hystrix-factory" target="1.8" />
+      <module name="springms-consumer-movie-ribbon" target="1.8" />
+      <module name="springms-consumer-movie-ribbon-custom" target="1.8" />
+      <module name="springms-consumer-movie-ribbon-properties" target="1.8" />
+      <module name="springms-consumer-movie-ribbon-properties-without-eureka" target="1.8" />
+      <module name="springms-consumer-movie-ribbon-with-hystrix" target="1.8" />
+      <module name="springms-consumer-movie-ribbon-with-hystrix-propagation" target="1.8" />
+      <module name="springms-discovery-eureka" target="1.8" />
+      <module name="springms-discovery-eureka-ha" target="1.8" />
+      <module name="springms-draft-demo" target="1.8" />
+      <module name="springms-file-upload" target="1.8" />
+      <module name="springms-gateway-zuul" target="1.8" />
+      <module name="springms-gateway-zuul-attribute" target="1.8" />
+      <module name="springms-gateway-zuul-cluster" target="1.8" />
+      <module name="springms-gateway-zuul-fallback" target="1.8" />
+      <module name="springms-gateway-zuul-file-upload" target="1.8" />
+      <module name="springms-gateway-zuul-filter" target="1.8" />
+      <module name="springms-gateway-zuul-reg-exp" target="1.8" />
+      <module name="springms-provider-user" target="1.8" />
+      <module name="springms-provider-user-mysql-crudrepository" target="1.8" />
+      <module name="springms-provider-user-mysql-jdbctemplate" target="1.8" />
+      <module name="springms-provider-user-mysql-jdbctemplate-transactional" target="1.8" />
+      <module name="springms-provider-user-mysql-jparepository" target="1.8" />
+      <module name="springms-provider-user-mysql-mybatis" target="1.8" />
+      <module name="springms-provider-user-mysql-mybatis-mapper" target="1.8" />
+      <module name="springms-provider-user-mysql-mybatis-mapper-ehcache" target="1.8" />
+      <module name="springms-provider-user-version" target="1.8" />
+      <module name="springms-schedule" target="1.8" />
+      <module name="springms-sidecar" target="1.8" />
+      <module name="springms-simple-consumer-movie" target="1.8" />
+      <module name="springms-simple-provider-user" target="1.8" />
+      <module name="springms-simple-provider-user-devtools" target="1.8" />
+      <module name="springms-simple-quartz" target="1.8" />
+      <module name="springms-simple-quartz-cluster" target="1.8" />
+      <module name="springms-simple-quartz-config-cluster" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
